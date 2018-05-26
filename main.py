@@ -163,3 +163,6 @@ if __name__ == '__main__': # rest in pieces
     Chatlogger('timbonot1',  'lolok', '45.32.193.38', 1031)
     Chatlogger('timbonot2',  'lolok', '45.32.193.38', 1031)
     Chatlogger('timbonot3',  'lolok', '45.32.193.38', 1031)
+    Chatlogger('timbonot4',  'lolok', '45.32.193.38', 1031)
+    Chatlogger('timbonot5',  'lolok', '45.32.193.38', 1031)
+    Chatlogger('timbonot6',  'lolok', '45.32.193.38', 1031)
