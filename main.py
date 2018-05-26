@@ -50,7 +50,7 @@ class Chatlogger:
 
             self.sendPacket(self.SocketConn, "91hic")
             
-            self.sendPacket(self.SocketConn, "02A01LOL{};A".format(random.choice(100,9000))
+            self.sendPacket(self.SocketConn, "02A01LOL{};A".format(random.choice(100,9000)))
             time.sleep(1)
             self.sendPacket(self.SocketConn, "03_")
 
