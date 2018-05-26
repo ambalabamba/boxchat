@@ -7,6 +7,7 @@ import datetime
 import threading
 import os
 import ctypes
+import random
 from xml.dom import minidom
 
 class Chatlogger:
